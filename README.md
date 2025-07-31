@@ -61,10 +61,15 @@ I'm **Yash Bhosale**, a dedicated and enthusiastic B.E. Computer Science student
 
 ### 📘 Certifications
 
-- **IBM AI Engineering**, Data Science, Applied Data Science (Coursera)
-- **Python Full Stack Dev** (Eduskills), **Python Essentials** (Cisco)
-- **Software & Data Engineering Internships** (Accenture, Deloitte, TATA)
-- **DBMS Course** (Scaler)
+- ✅ **GenAI Powered Data Analytics Job Simulation** – TATA
+- ✅ **Software Engineering Job Simulation** – Accenture
+- ✅ **Data Analytics Virtual Internship** – Deloitte
+- ✅ **Data Science Master Virtual Internship** – Eduskills
+- ✅ **Data Engineering Virtual Internship** – Eduskills
+- ✅ **Python Full Stack Developer Virtual Internship** – Eduskills
+- ✅ **Data Scientist: Statistics for Data Science** – Simplilearn
+- ✅ **Python Essentials** – Cisco
+- ✅ **DBMS Course** – Scaler
 
 ---
 
@@ -79,4 +84,5 @@ I'm **Yash Bhosale**, a dedicated and enthusiastic B.E. Computer Science student
 I'm open to internships, collaborations, and mentorship opportunities in data science, full-stack development, and analytics.
 
 > "Passion drives progress. Data powers decisions."
+
 
