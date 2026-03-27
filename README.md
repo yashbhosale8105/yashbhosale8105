@@ -17,8 +17,8 @@
 ---
 
 ## 🏆 Achievements
-🥈 **Runner-Up – AI/ML Track (HackNova National Hackathon 2026)**  
-Competed among 400+ participants building real-world AI solutions  
+🥈 **Runner-Up – AI/ML Track | HackNova National Hackathon 2026**  
+Competed among 400+ participants  
 
 ---
 
@@ -61,6 +61,7 @@ Competed among 400+ participants building real-world AI solutions
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
 
@@ -69,23 +70,48 @@ Competed among 400+ participants building real-world AI solutions
 # 🚀 Featured Projects:
 
 ### 👗 Lookify – AI Fashion Studio  
-AI-powered fashion ecosystem with **virtual try-on + 44K+ product recommendations**  
+AI-powered fashion ecosystem with **virtual try-on (IDM-VTON)** and **44K+ product recommendations**  
+
+---
 
 ### 🔗 MilestoneVault – Blockchain Funding Platform  
-Smart contract escrow system with **quorum-based fund release**  
+Decentralized escrow system with **quorum-based fund release using smart contracts**  
+
+---
 
 ### 🕵️ ClearTrace – AI Banking Investigation System  
-Fraud detection system with **GenAI reports + OCR + anomaly detection**  
+Fraud detection system with **GenAI reports, OCR, and anomaly detection**  
+
+---
 
 ### 🌞 SolarTerrain – Solar Suitability Platform  
 Full-stack ML app for **solar panel recommendations across India**  
 
 ---
 
+### ❤️ Transplant Care Management System  
+System connecting **organ donors and recipients with matching engine**  
+
+---
+
+### 🎯 Quizventure – Technical Quiz Platform  
+Interactive quiz platform with **leaderboards and dynamic scoring**  
+
+---
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yashbhosale8105&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yashbhosale8105&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashbhosale8105&theme=tokyonight&hide_border=true&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashbhosale8105&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yashbhosale8105&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbhosale8105&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 
 ---
 
