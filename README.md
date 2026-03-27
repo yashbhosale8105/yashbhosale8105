@@ -24,7 +24,7 @@ Competed among 400+ participants
 
 ## 🌐 Connect With Me:
 <p align="left">
-<a href="https://www.linkedin.com/in/yashbhosale-23b9a8274" target="blank">
+<a href="https://www.linkedin.com/in/yashbhosale-23b9a8274">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:yashbhosale8105@gmail.com">
@@ -67,6 +67,22 @@ Competed among 400+ participants
 
 ---
 
+# 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashbhosale8105&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yashbhosale8105&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbhosale8105&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+---
+
 # 🚀 Featured Projects:
 
 ### 👗 Lookify – AI Fashion Studio  
@@ -96,27 +112,6 @@ System connecting **organ donors and recipients with matching engine**
 
 ### 🎯 Quizventure – Technical Quiz Platform  
 Interactive quiz platform with **leaderboards and dynamic scoring**  
-
----
-
-# 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashbhosale8105&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yashbhosale8105&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbhosale8105&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yashbhosale8105&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
