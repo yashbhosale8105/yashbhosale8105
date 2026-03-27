@@ -71,18 +71,16 @@ Competed among 400+ participants
 
 # 📊 GitHub Stats:
 
+# 📊 GitHub Stats:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashbhosale8105&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashbhosale8105&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yashbhosale8105&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashbhosale8105&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashbhosale8105&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbhosale8105&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
 ---
 
 # 🚀 Featured Projects:
