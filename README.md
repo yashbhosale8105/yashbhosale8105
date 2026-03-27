@@ -69,7 +69,30 @@ I'm a third-year Computer Science (Data Science) student passionate about buildi
 
 ---
 
-## Featured Projects
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashbhosale8105&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashbhosale8105&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashbhosale8105&theme=tokyonight)&nbsp;&nbsp;
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashbhosale8105&theme=tokyonight)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 ### 👗 [Lookify – AI Fashion Studio](https://github.com/yashbhosale8105/Lookify)
 > Python · Flask · Streamlit · MySQL · KNN · IDM-VTON · Gradio
@@ -113,30 +136,7 @@ Interactive quiz platform with dynamic scoring, leaderboards, and a component-dr
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashbhosale8105&theme=tokyonight&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashbhosale8105&theme=tokyonight)
-
-</div>
-
-<div align="center">
-
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashbhosale8105&theme=tokyonight)&nbsp;&nbsp;
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashbhosale8105&theme=tokyonight)
-
-</div>
-
----
-
-## Certifications
+## 🎓 Certifications
 
 | Issuer | Certification |
 |--------|--------------|
@@ -155,6 +155,6 @@ Interactive quiz platform with dynamic scoring, leaderboards, and a component-dr
 
 *"Building production-ready systems — not just models."*
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=yashbhosale8105&icon=5&color=6)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=yashbhosale8105&color=58a6ff&style=flat-square&label=Profile+Views)
 
 </div>
