@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashbhosale-23b9a8274)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yashbhosale8105@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-yash-xi.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-yash-xi.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/yashbhosale8105)
 
 </div>
@@ -71,35 +71,35 @@ I'm a third-year Computer Science (Data Science) student passionate about buildi
 
 ## Featured Projects
 
-### 👗 [Lookify – AI Fashion Studio](https://github.com/yashbhosale8105)
+### 👗 [Lookify – AI Fashion Studio](https://github.com/yashbhosale8105/Lookify)
 > Python · Flask · Streamlit · MySQL · KNN · IDM-VTON · Gradio
 
 End-to-end AI fashion ecosystem with virtual try-on powered by IDM-VTON (via Hugging Face), KNN-based visual recommendations across **44,000+ products**, and a unified discovery-to-cart workflow.
 
 ---
 
-### 🔗 [MilestoneVault – Blockchain Funding Platform](https://github.com/yashbhosale8105)
+### 🔗 [MilestoneVault – Blockchain Funding Platform](https://github.com/yashbhosale8105/HS-2026-114-Hackstomp26)
 > Solidity · FastAPI · PostgreSQL · ethers.js · Docker · Vercel
 
 Decentralized escrow system on Ethereum Sepolia releasing funds only on stakeholder quorum. Features smart contract vaults, live quorum dashboards, role-based workflows, and **21/21 Hardhat unit tests passed**.
 
 ---
 
-### 🕵️ [ClearTrace – AI Banking Investigation System](https://github.com/yashbhosale8105)
+### 🕵️ [ClearTrace – AI Banking Investigation System](https://github.com/yashbhosale8105/ClearTrace)
 > Python · Flask · React.js · Gemini 2.0 · SQLite · Chart.js
 
 AI-powered fraud detection for UPI & cheque transactions with real-time anomaly detection, GenAI investigation reports, Vision AI cheque OCR, gTTS voice summaries, and a Cyber-Noir dashboard.
 
 ---
 
-### 🌞 [SolarTerrain – Solar Suitability Platform](https://github.com/yashbhosale8105)
+### 🌞 [SolarTerrain – Solar Suitability Platform](https://github.com/yashbhosale8105/SolarTerrain)
 > Python · FastAPI · React.js · ML · Material-UI
 
 Full-stack ML app for solar panel suitability assessment across India with interactive maps, ML predictions, JWT auth, PDF report generation, AI chatbot, and feedback system.
 
 ---
 
-### ❤️ [Transplant Care Management System](https://github.com/yashbhosale8105)
+### ❤️ [Transplant Care Management System](https://github.com/yashbhosale8105/TransplantCare)
 > Python · Tkinter · MySQL · Pandas · Matplotlib
 
 Multi-user desktop app connecting organ donors and patients with role-based dashboards, blood-type compatibility matching engine, automated email alerts, and data analytics.
